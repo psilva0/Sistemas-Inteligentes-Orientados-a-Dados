@@ -75,7 +75,7 @@ Os dados eleitorais apresentam particularidades relacionadas a diferentes tipos 
 
 As previsões do modelo representam padrões estatísticos identificados nos dados históricos. Portanto, o sistema deve ser entendido como uma ferramenta de apoio ao planejamento e à tomada de decisão, e não como substituto da análise das autoridades responsáveis pela organização eleitoral.
 
-6. Atividade 01 - Caracterização e avaliação inicial dos dados
+6. Caracterização e avaliação inicial dos dados
 
 A primeira etapa do projeto consiste na caracterização técnica e avaliação inicial da fonte de dados, verificando sua disponibilidade, qualidade e limitações.
 
